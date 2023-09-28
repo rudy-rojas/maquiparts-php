@@ -36,6 +36,4 @@ protected/components/widgets/select2/assets/*
 
 assets/*
 !assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
 protected/data/*.db
