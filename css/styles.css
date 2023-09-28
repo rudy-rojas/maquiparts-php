@@ -1,0 +1,23 @@
+body{
+  background: #333333 !important;
+}
+
+.icon {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  box-shadow: 0 0 3px 0 #ccc;
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.icon:hover {
+  text-decoration: underline;
+  box-shadow: 0 0 5px 0px rgb(119, 119, 119);
+}
+
+div.form-group {
+  margin: 20px 0 0 0 !important;
+}
